@@ -1,34 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h3 align="center">
+  NextJS - React - Eslint - Prettier
+</h3>
 
-## Getting Started
+<p align="center">
+  <a href="#sobre o projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desenvolvedor">Desenvolvedor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iniciando">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-First, run the development server:
+## 👨🏻‍💻 Sobre o projeto
+
+Aplicação criada com o [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), configurada com o [Eslint](https://www.npmjs.com/package/eslint) seguindo a Style Guide do [Eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard) e o [Prettier](https://www.npmjs.com/package/prettier).
+
+
+### 💻 Desenvolvedor
+- [Marcílio Gonçalves Santos Júnior](https://github.com/jrsmarcilio)
+
+## 🚀 Tecnologias
+
+Tecnologias utilizadas para a configuração:
+
+- [Next.js](https://www.npmjs.com/package/next)
+- [React](https://www.npmjs.com/package/react)
+
+DevDependencies:
+- [Eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
+- [Eslint-plugin-prettier](https://www.npmjs.com/package/eslint-plugin-prettier)
+- [Eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
+- [Eslint](https://www.npmjs.com/package/eslint)
+- [Typescript](https://www.npmjs.com/package/typescript)
+
+## 💻 Iniciando
 
 ```bash
-npm run dev
-# or
-yarn dev
+### Clone o projeto e acesse a pasta
+$ git clone https://github.com/jrsmarcilio/nextjs-eslint-standard-prettier.git && cd nextjs-eslint-standard-prettier
+
+# Instale as dependências
+$ yarn
+
+# Runs the app in the development mode.\
+$ yarn start
 ```
+## Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.tsx`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Curtiu? Deixa um star no projeto e conecta lá no meu [LinkedIn/in/jrsmarcilio](https://www.linkedin.com/in/jrsmarcilio)
