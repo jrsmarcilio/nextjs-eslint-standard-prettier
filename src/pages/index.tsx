@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <div>
       <Head>
-        <title>nlwValoriza - Together</title>
+        <title>NextJS Eslint Standard Prettier</title>
       </Head>
 
       <main>
